@@ -1,0 +1,177 @@
+{
+  "5766fcbe473655ce8a26689b20d1aec9_843b926c1b55028c9ca5b6b974e6afa6": {
+    "id": "5766fcbe473655ce8a26689b20d1aec9_843b926c1b55028c9ca5b6b974e6afa6",
+    "content": "Product: iPhone 16 Pro\n        Brand: Apple\n        Category: smartphone\n        \n        Specifications: {\n  \"storage_options\": [\n    \"128GB\",\n    \"256GB\",\n    \"512GB\",\n    \"1TB\"\n  ],\n  \"colors\": [\n    \"Black Titanium\",\n    \"White Titanium\",\n    \"Natural Titanium\",\n    \"Desert Titanium\"\n  ],\n  \"display\": \"6.3-inch Super Retina XDR\",\n  \"chip\": \"A18 Pro\",\n  \"camera\": \"48MP Main, 48MP Ultra Wide, 12MP Telephoto\",\n  \"battery\": \"Up to 27 hours video playback\"\n}\n        \n        Features: Camera Control button, Action Button, Dynamic Island, Face ID, 5G connectivity, MagSafe compatible, Water resistant IP68\n        \n        Price Range: $999 - $1599 (avg: $1200)\n        \n        Alternatives: iPhone 16, iPhone 15 Pro, Samsung Galaxy S24 Ultra, Google Pixel 9 Pro\n        \n        Reviews Summary: Excellent camera system with new Camera Control. Great performance with A18 Pro chip. Premium build quality with titanium design.\n        \n        Market Insights: High demand product. Prices typically stable for first 6 months, then gradual decrease. Best deals during Black Friday and carrier promotions.",
+    "metadata": {
+      "type": "product_knowledge",
+      "product_id": "apple_iphone_16_pro",
+      "brand": "Apple",
+      "category": "smartphone",
+      "price_min": 999,
+      "price_max": 1599
+    },
+    "created_at": "2025-07-06T21:21:33.728755"
+  },
+  "763a38ba58d848a238cf1fa9c84a621f_d9b2776d0f55b016a50eb46d84b6780f": {
+    "id": "763a38ba58d848a238cf1fa9c84a621f_d9b2776d0f55b016a50eb46d84b6780f",
+    "content": "Product: iPhone 16\n        Brand: Apple\n        Category: smartphone\n        \n        Specifications: {\n  \"storage_options\": [\n    \"128GB\",\n    \"256GB\",\n    \"512GB\"\n  ],\n  \"colors\": [\n    \"Black\",\n    \"White\",\n    \"Pink\",\n    \"Teal\",\n    \"Ultramarine\"\n  ],\n  \"display\": \"6.1-inch Super Retina XDR\",\n  \"chip\": \"A18\",\n  \"camera\": \"48MP Main, 12MP Ultra Wide\",\n  \"battery\": \"Up to 22 hours video playback\"\n}\n        \n        Features: Camera Control button, Action Button, Dynamic Island, Face ID, 5G connectivity, MagSafe compatible\n        \n        Price Range: $799 - $1099 (avg: $900)\n        \n        Alternatives: iPhone 15, iPhone 16 Plus, Samsung Galaxy S24, Google Pixel 9\n        \n        Reviews Summary: Great value iPhone with new Camera Control. Solid performance with A18 chip. Good camera system for the price.\n        \n        Market Insights: Popular mid-range option. More price flexibility than Pro models. Good trade-in values.",
+    "metadata": {
+      "type": "product_knowledge",
+      "product_id": "apple_iphone_16",
+      "brand": "Apple",
+      "category": "smartphone",
+      "price_min": 799,
+      "price_max": 1099
+    },
+    "created_at": "2025-07-06T21:21:33.758662"
+  },
+  "3c5abb5c106a38ea25dfbd74903b5c07_1c8cf00351adbba9845a90f4c5676d2f": {
+    "id": "3c5abb5c106a38ea25dfbd74903b5c07_1c8cf00351adbba9845a90f4c5676d2f",
+    "content": "Product: Samsung Galaxy S24 Ultra\n        Brand: Samsung\n        Category: smartphone\n        \n        Specifications: {\n  \"storage_options\": [\n    \"256GB\",\n    \"512GB\",\n    \"1TB\"\n  ],\n  \"colors\": [\n    \"Titanium Black\",\n    \"Titanium Gray\",\n    \"Titanium Violet\",\n    \"Titanium Yellow\"\n  ],\n  \"display\": \"6.8-inch Dynamic AMOLED 2X\",\n  \"chip\": \"Snapdragon 8 Gen 3\",\n  \"camera\": \"200MP Main, 50MP Periscope, 10MP Telephoto, 12MP Ultra Wide\",\n  \"battery\": \"5000mAh\"\n}\n        \n        Features: S Pen included, AI photo editing, 100x Space Zoom, IP68 water resistance, Wireless charging, Samsung DeX\n        \n        Price Range: $1199 - $1659 (avg: $1400)\n        \n        Alternatives: iPhone 16 Pro Max, Google Pixel 9 Pro XL, OnePlus 12\n        \n        Reviews Summary: Excellent camera zoom capabilities. Great for productivity with S Pen. Premium build and display quality.\n        \n        Market Insights: Samsung phones depreciate faster than iPhones. Best deals 3-6 months after launch. Strong trade-in programs.",
+    "metadata": {
+      "type": "product_knowledge",
+      "product_id": "samsung_samsung_galaxy_s24_ultra",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price_min": 1199,
+      "price_max": 1659
+    },
+    "created_at": "2025-07-06T21:21:33.789177"
+  },
+  "060cd0f470c91449681554066b0b657e_eff392a43c35ebd4d6efe9c057579c55": {
+    "id": "060cd0f470c91449681554066b0b657e_eff392a43c35ebd4d6efe9c057579c55",
+    "content": "Product: OnePlus 12\n        Brand: OnePlus\n        Category: smartphone\n        \n        Specifications: {\n  \"storage_options\": [\n    \"256GB\",\n    \"512GB\"\n  ],\n  \"colors\": [\n    \"Silky Black\",\n    \"Flowy Emerald\"\n  ],\n  \"display\": \"6.82-inch LTPO AMOLED\",\n  \"chip\": \"Snapdragon 8 Gen 3\",\n  \"camera\": \"50MP Main, 64MP Periscope, 48MP Ultra Wide\",\n  \"battery\": \"5400mAh\"\n}\n        \n        Features: 100W fast charging, 50W wireless charging, Alert Slider, IP65 water resistance, OxygenOS, Gaming mode\n        \n        Price Range: $699 - $899 (avg: $799)\n        \n        Alternatives: Samsung Galaxy S24, iPhone 16, Google Pixel 9\n        \n        Reviews Summary: Excellent value flagship. Very fast charging. Clean software experience. Good camera performance.\n        \n        Market Insights: Great price-to-performance ratio. Limited availability in some markets. Prices drop quickly after 6 months.",
+    "metadata": {
+      "type": "product_knowledge",
+      "product_id": "oneplus_oneplus_12",
+      "brand": "OnePlus",
+      "category": "smartphone",
+      "price_min": 699,
+      "price_max": 899
+    },
+    "created_at": "2025-07-06T21:21:33.817409"
+  },
+  "25edaab6b43ad1e0f0c31d7b151e6344_66fdf6e8e37a6ace0c91db6423668014": {
+    "id": "25edaab6b43ad1e0f0c31d7b151e6344_66fdf6e8e37a6ace0c91db6423668014",
+    "content": "Product: MacBook Air M2\n        Brand: Apple\n        Category: laptop\n        \n        Specifications: {\n  \"storage_options\": [\n    \"256GB\",\n    \"512GB\",\n    \"1TB\",\n    \"2TB\"\n  ],\n  \"memory_options\": [\n    \"8GB\",\n    \"16GB\",\n    \"24GB\"\n  ],\n  \"colors\": [\n    \"Space Gray\",\n    \"Silver\",\n    \"Starlight\",\n    \"Midnight\"\n  ],\n  \"display\": \"13.6-inch Liquid Retina\",\n  \"chip\": \"Apple M2\",\n  \"battery\": \"Up to 18 hours\"\n}\n        \n        Features: Fanless design, MagSafe charging, Touch ID, 1080p FaceTime HD camera, Four-speaker sound system, macOS\n        \n        Price Range: $999 - $2499 (avg: $1400)\n        \n        Alternatives: MacBook Pro 14-inch, Dell XPS 13, Surface Laptop 5\n        \n        Reviews Summary: Excellent battery life and performance. Great for everyday tasks. Silent operation. Premium build quality.\n        \n        Market Insights: Strong resale value. Educational discounts available. Best deals during back-to-school season.",
+    "metadata": {
+      "type": "product_knowledge",
+      "product_id": "apple_macbook_air_m2",
+      "brand": "Apple",
+      "category": "laptop",
+      "price_min": 999,
+      "price_max": 2499
+    },
+    "created_at": "2025-07-06T21:21:33.847881"
+  },
+  "eb0ef722b2c7845d1dcbef4c3b0e2895_949d1bae6a07f54079a98ba243d31938": {
+    "id": "eb0ef722b2c7845d1dcbef4c3b0e2895_949d1bae6a07f54079a98ba243d31938",
+    "content": "Price Analysis for: Samsung Galaxy S24 5G AI Smartphone (Onyx Black, 8GB, 128GB Storage)\n        Current Price: $511.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:40.869308\",\n    \"price\": 511.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "samsung_galaxy_s24_5g_ai_smartphone_(onyx_black,_8gb,_128gb_storage)",
+      "current_price": 511.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:21:40.889738"
+  },
+  "0b004f0210073c1872cf87f659863473_4596b47b5dd6f2809d69c56e8311f1cb": {
+    "id": "0b004f0210073c1872cf87f659863473_4596b47b5dd6f2809d69c56e8311f1cb",
+    "content": "Price Analysis for: Samsung Galaxy S24 5G AI Smartphone (Onyx Black, 8GB, 256GB Storage)\n        Current Price: $574.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:40.889738\",\n    \"price\": 574.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "samsung_galaxy_s24_5g_ai_smartphone_(onyx_black,_8gb,_256gb_storage)",
+      "current_price": 574.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:21:40.909189"
+  },
+  "64f89920f1543af0cfba576a6f4d0b3f_825cb63b9bb9b6a76564f0f01e21c03c": {
+    "id": "64f89920f1543af0cfba576a6f4d0b3f_825cb63b9bb9b6a76564f0f01e21c03c",
+    "content": "Price Analysis for: Samsung Galaxy S24 FE 5G AI Smartphone (Blue, 8GB RAM, 128GB Storage)\n        Current Price: $405.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:40.909189\",\n    \"price\": 405.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "samsung_galaxy_s24_fe_5g_ai_smartphone_(blue,_8gb_ram,_128gb_storage)",
+      "current_price": 405.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:21:40.929371"
+  },
+  "b70bc762b4ab2978a9d0aca86e42f089_4016f0375e0b71538e847a45bbb7ad2c": {
+    "id": "b70bc762b4ab2978a9d0aca86e42f089_4016f0375e0b71538e847a45bbb7ad2c",
+    "content": "Price Analysis for: Samsung Galaxy S24 Ultra 5G AI Smartphone with Galaxy AI (Titanium Gray, 12GB, 256GB Storage), Snapdragon 8 Gen 3, 200 MP Camera with ProVisual Engine and 5000mAh Battery\n        Current Price: $1013.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:40.930372\",\n    \"price\": 1013.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "samsung_galaxy_s24_ultra_5g_ai_smartphone_with_galaxy_ai_(titanium_gray,_12gb,_256gb_storage),_snapdragon_8_gen_3,_200_mp_camera_with_provisual_engine_and_5000mah_battery",
+      "current_price": 1013.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:21:40.952789"
+  },
+  "edcfe3ae0805f1d53271624f9430ab19_87fd311b79de6a19183f6bef1c391cb8": {
+    "id": "edcfe3ae0805f1d53271624f9430ab19_87fd311b79de6a19183f6bef1c391cb8",
+    "content": "Price Analysis for: Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer\n        Current Price: $987.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:40.952789\",\n    \"price\": 987.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "samsung_galaxy_s24_ultra_5g_ai_smartphone_(titanium_black,_12gb,_256gb_storage)_without_offer",
+      "current_price": 987.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:21:40.973265"
+  },
+  "8d13b5e2d6413828ea530af18f9288cd_59559c8aab3c835b0e5fc7b7e6e59180": {
+    "id": "8d13b5e2d6413828ea530af18f9288cd_59559c8aab3c835b0e5fc7b7e6e59180",
+    "content": "Price Analysis for: Apple MacBook Pro 256GB Wi-Fi Laptop 13.3in with Intel Core i5 MF840LL/A - Silver (Renewed)\n        Current Price: $489.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:44.191436\",\n    \"price\": 489.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "apple_macbook_pro_256gb_wi-fi_laptop_13.3in_with_intel_core_i5_mf840ll/a_-_silver_(renewed)",
+      "current_price": 489.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:21:44.212388"
+  },
+  "ee488a8b0858d56b3ca6a41a42d123b1_694576cdf074ed02bb0e7ab45ad83630": {
+    "id": "ee488a8b0858d56b3ca6a41a42d123b1_694576cdf074ed02bb0e7ab45ad83630",
+    "content": "Price Analysis for: iPhone 16 Pro 128GB\n        Current Price: $999.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.316156\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_16_pro_128gb",
+      "current_price": 999.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:21:49.331780"
+  },
+  "606db2b27aee2e269fae37e114f296ba_a3e3124e4b2f8f13f58b8a42c5d04de3": {
+    "id": "606db2b27aee2e269fae37e114f296ba_a3e3124e4b2f8f13f58b8a42c5d04de3",
+    "content": "Price Analysis for: iPhone 16 Pro 256GB\n        Current Price: $1099.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.331780\",\n    \"price\": 1099.0,\n    \"source\": \"Best Buy\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_16_pro_256gb",
+      "current_price": 1099.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:21:49.341140"
+  },
+  "de00e864835f8975466ce9484ebf8e9f_d84606224ec9dae37bc0b2f4ecb06ebc": {
+    "id": "de00e864835f8975466ce9484ebf8e9f_d84606224ec9dae37bc0b2f4ecb06ebc",
+    "content": "Price Analysis for: Galaxy S24 128GB\n        Current Price: $799.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.345161\",\n    \"price\": 799.0,\n    \"source\": \"Samsung\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "galaxy_s24_128gb",
+      "current_price": 799.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:21:49.356142"
+  },
+  "3923ac8db536d2d5c0f18fd2b948e7b2_8a152d958c3ad7c1abe5ff874bff7437": {
+    "id": "3923ac8db536d2d5c0f18fd2b948e7b2_8a152d958c3ad7c1abe5ff874bff7437",
+    "content": "Price Analysis for: Galaxy S24 256GB\n        Current Price: $859.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.356142\",\n    \"price\": 859.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "galaxy_s24_256gb",
+      "current_price": 859.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:21:49.366246"
+  }
+}

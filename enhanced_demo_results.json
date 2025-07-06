@@ -1,0 +1,57 @@
+{
+  "timestamp": "2025-07-06T17:40:56.929403",
+  "us_market": {
+    "query": "iPhone 16 Pro, 128GB",
+    "country": "US",
+    "total_results": 1,
+    "search_time": 0.2821471691131592,
+    "results": [
+      {
+        "link": "https://b&hphoto.com/iphone-16-pro-0",
+        "price": "951",
+        "currency": "USD",
+        "productName": "Apple iPhone 16 Pro - 128GB - Natural Titanium",
+        "availability": "In Stock",
+        "rating": 4.3,
+        "reviewsCount": 1732,
+        "seller": "B&H Photo",
+        "shippingCost": null,
+        "deliveryTime": null,
+        "imageUrl": null,
+        "specifications": null,
+        "confidenceScore": 1.0,
+        "source": "B&H Photo",
+        "scrapedAt": "2025-07-06T17:40:55.203565",
+        "similarityScore": 0.848,
+        "rank": 1
+      }
+    ]
+  },
+  "indian_market": {
+    "query": "iPhone 16 Pro, 128GB",
+    "country": "IN",
+    "total_results": 1,
+    "search_time": 0.26193881034851074,
+    "results": [
+      {
+        "link": "https://reliancedigital.com/iphone-16-pro-0",
+        "price": "913",
+        "currency": "USD",
+        "productName": "Apple iPhone 16 Pro 128GB - Natural Titanium",
+        "availability": "In Stock",
+        "rating": 4.9,
+        "reviewsCount": 2023,
+        "seller": "Reliance Digital",
+        "shippingCost": null,
+        "deliveryTime": null,
+        "imageUrl": null,
+        "specifications": null,
+        "confidenceScore": 1.0,
+        "source": "Reliance Digital",
+        "scrapedAt": "2025-07-06T17:40:56.871143",
+        "similarityScore": 0.848,
+        "rank": 1
+      }
+    ]
+  }
+}

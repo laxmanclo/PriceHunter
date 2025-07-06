@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-07-06T21:21:49.370714",
+  "test_type": "rag_system",
+  "status": "success",
+  "total_time": 29.857259511947632,
+  "components_tested": [
+    "knowledge_base",
+    "query_enhancer",
+    "rag_engine",
+    "integrated_search",
+    "learning_system"
+  ]
+}

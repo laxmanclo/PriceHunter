@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-07-06T21:03:53.475765",
+  "test_type": "real_scrapers",
+  "us_market": {
+    "success": true,
+    "results": 0,
+    "search_time": 3.459709644317627,
+    "sources": [
+      "BestBuy",
+      "Walmart",
+      "Target",
+      "Apple Store",
+      "eBay",
+      "Amazon"
+    ],
+    "top_result": null
+  },
+  "indian_market": {
+    "success": true,
+    "results": 5,
+    "search_time": 4.654513359069824,
+    "sources": [
+      "Sangeetha Mobiles",
+      "Apple Store",
+      "Flipkart",
+      "Amazon India",
+      "Amazon",
+      "eBay"
+    ],
+    "top_result": {
+      "link": "https://amazon.in/iPhone-16-Pro-128-GB/dp/B0DGJBN8TV/ref=mp_s_a_1_6?dib=eyJ2IjoiMSJ9.YQ7f0XBMTTuyp8JcAKlLgAm1jxOqlFiN_klegkVmVfj-p12DaHLT2sIPB_UsatWiDr_BHrWbiYanbsw0J_q2Jdk6Yql1fUWzovtFakjoxVO2fsDTbTS2tH48fUpeuE2Yg-5xhoR_-WOk0Y7c1uZ1i1oQ3hVJvcyZuznM8ZBsC24X1CsC6REC2j9mxgm0kH0k4Rmhem7Wjumi2E0H_jVJGA.hlts4XXxbGEkqfOfMVXkoNIZ8aK6Hq9WMJ5XbYO5GkI&dib_tag=se&keywords=iPhone+16+Pro%2C+128GB&qid=1751828419&sr=8-6",
+      "price": "1292",
+      "currency": "USD",
+      "productName": "iPhone 16 Pro 128 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; White Titanium",
+      "availability": "In Stock",
+      "rating": 4.3,
+      "reviewsCount": null,
+      "seller": "Amazon",
+      "shippingCost": null,
+      "deliveryTime": null,
+      "imageUrl": "https://m.media-amazon.com/images/I/01rrzVoKd5L.svg",
+      "specifications": null,
+      "confidenceScore": 1.0,
+      "source": "Amazon",
+      "scrapedAt": "2025-07-06T21:03:33.558649",
+      "similarityScore": 0.598,
+      "rank": 1
+    }
+  }
+}
