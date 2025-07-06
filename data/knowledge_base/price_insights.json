@@ -103,13 +103,33 @@
         "date": "2025-07-06T21:21:49.316156",
         "price": 999.0,
         "source": "Apple"
+      },
+      {
+        "date": "2025-07-06T21:25:57.685618",
+        "price": 999.0,
+        "source": "Apple"
+      },
+      {
+        "date": "2025-07-06T21:26:00.835730",
+        "price": 999.0,
+        "source": "Apple"
+      },
+      {
+        "date": "2025-07-06T21:27:46.669249",
+        "price": 999.0,
+        "source": "Apple"
+      },
+      {
+        "date": "2025-07-06T21:27:49.918405",
+        "price": 999.0,
+        "source": "Apple"
       }
     ],
     "price_trend": "stable",
     "best_time_to_buy": "Monitor for trends",
     "price_prediction": null,
     "market_analysis": "Insufficient data for analysis",
-    "last_updated": "2025-07-06T21:21:49.316156"
+    "last_updated": "2025-07-06T21:27:49.918405"
   },
   "iphone_16_pro_256gb": {
     "product_name": "iPhone 16 Pro 256GB",
@@ -119,13 +139,23 @@
         "date": "2025-07-06T21:21:49.331780",
         "price": 1099.0,
         "source": "Best Buy"
+      },
+      {
+        "date": "2025-07-06T21:25:57.696143",
+        "price": 1099.0,
+        "source": "Best Buy"
+      },
+      {
+        "date": "2025-07-06T21:27:46.679312",
+        "price": 1099.0,
+        "source": "Best Buy"
       }
     ],
     "price_trend": "stable",
     "best_time_to_buy": "Monitor for trends",
     "price_prediction": null,
     "market_analysis": "Insufficient data for analysis",
-    "last_updated": "2025-07-06T21:21:49.331780"
+    "last_updated": "2025-07-06T21:27:46.679312"
   },
   "galaxy_s24_128gb": {
     "product_name": "Galaxy S24 128GB",
@@ -135,13 +165,23 @@
         "date": "2025-07-06T21:21:49.345161",
         "price": 799.0,
         "source": "Samsung"
+      },
+      {
+        "date": "2025-07-06T21:25:57.710363",
+        "price": 799.0,
+        "source": "Samsung"
+      },
+      {
+        "date": "2025-07-06T21:27:46.701705",
+        "price": 799.0,
+        "source": "Samsung"
       }
     ],
     "price_trend": "stable",
     "best_time_to_buy": "Monitor for trends",
     "price_prediction": null,
     "market_analysis": "Insufficient data for analysis",
-    "last_updated": "2025-07-06T21:21:49.345161"
+    "last_updated": "2025-07-06T21:27:46.701705"
   },
   "galaxy_s24_256gb": {
     "product_name": "Galaxy S24 256GB",
@@ -151,12 +191,64 @@
         "date": "2025-07-06T21:21:49.356142",
         "price": 859.0,
         "source": "Amazon"
+      },
+      {
+        "date": "2025-07-06T21:25:57.721672",
+        "price": 859.0,
+        "source": "Amazon"
+      },
+      {
+        "date": "2025-07-06T21:27:46.718714",
+        "price": 859.0,
+        "source": "Amazon"
       }
     ],
     "price_trend": "stable",
     "best_time_to_buy": "Monitor for trends",
     "price_prediction": null,
     "market_analysis": "Insufficient data for analysis",
-    "last_updated": "2025-07-06T21:21:49.356142"
+    "last_updated": "2025-07-06T21:27:46.718714"
+  },
+  "iphone_15_pro_128gb": {
+    "product_name": "iPhone 15 Pro 128GB",
+    "current_price": 799.0,
+    "historical_prices": [
+      {
+        "date": "2025-07-06T21:26:00.849994",
+        "price": 799.0,
+        "source": "Best Buy"
+      },
+      {
+        "date": "2025-07-06T21:27:49.933918",
+        "price": 799.0,
+        "source": "Best Buy"
+      }
+    ],
+    "price_trend": "stable",
+    "best_time_to_buy": "Monitor for trends",
+    "price_prediction": null,
+    "market_analysis": "Insufficient data for analysis",
+    "last_updated": "2025-07-06T21:27:49.933918"
+  },
+  "iphone_16_128gb": {
+    "product_name": "iPhone 16 128GB",
+    "current_price": 699.0,
+    "historical_prices": [
+      {
+        "date": "2025-07-06T21:26:00.860521",
+        "price": 699.0,
+        "source": "Amazon"
+      },
+      {
+        "date": "2025-07-06T21:27:49.944289",
+        "price": 699.0,
+        "source": "Amazon"
+      }
+    ],
+    "price_trend": "stable",
+    "best_time_to_buy": "Monitor for trends",
+    "price_prediction": null,
+    "market_analysis": "Insufficient data for analysis",
+    "last_updated": "2025-07-06T21:27:49.944289"
   }
 }

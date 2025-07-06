@@ -173,5 +173,159 @@
       "trend": "stable"
     },
     "created_at": "2025-07-06T21:21:49.366246"
+  },
+  "4903d50ab721dc1e9a2a8a59729b6cc1_694576cdf074ed02bb0e7ab45ad83630": {
+    "id": "4903d50ab721dc1e9a2a8a59729b6cc1_694576cdf074ed02bb0e7ab45ad83630",
+    "content": "Price Analysis for: iPhone 16 Pro 128GB\n        Current Price: $999.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.316156\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  },\n  {\n    \"date\": \"2025-07-06T21:25:57.685618\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_16_pro_128gb",
+      "current_price": 999.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:25:57.696143"
+  },
+  "ed777f11d84036529399866e8b1fcbc7_a3e3124e4b2f8f13f58b8a42c5d04de3": {
+    "id": "ed777f11d84036529399866e8b1fcbc7_a3e3124e4b2f8f13f58b8a42c5d04de3",
+    "content": "Price Analysis for: iPhone 16 Pro 256GB\n        Current Price: $1099.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.331780\",\n    \"price\": 1099.0,\n    \"source\": \"Best Buy\"\n  },\n  {\n    \"date\": \"2025-07-06T21:25:57.696143\",\n    \"price\": 1099.0,\n    \"source\": \"Best Buy\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_16_pro_256gb",
+      "current_price": 1099.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:25:57.706363"
+  },
+  "15639068184b32a9343dd2c6dcdd655b_d84606224ec9dae37bc0b2f4ecb06ebc": {
+    "id": "15639068184b32a9343dd2c6dcdd655b_d84606224ec9dae37bc0b2f4ecb06ebc",
+    "content": "Price Analysis for: Galaxy S24 128GB\n        Current Price: $799.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.345161\",\n    \"price\": 799.0,\n    \"source\": \"Samsung\"\n  },\n  {\n    \"date\": \"2025-07-06T21:25:57.710363\",\n    \"price\": 799.0,\n    \"source\": \"Samsung\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "galaxy_s24_128gb",
+      "current_price": 799.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:25:57.721672"
+  },
+  "2fc7a51be07e606a3f982e90c16a1a05_8a152d958c3ad7c1abe5ff874bff7437": {
+    "id": "2fc7a51be07e606a3f982e90c16a1a05_8a152d958c3ad7c1abe5ff874bff7437",
+    "content": "Price Analysis for: Galaxy S24 256GB\n        Current Price: $859.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.356142\",\n    \"price\": 859.0,\n    \"source\": \"Amazon\"\n  },\n  {\n    \"date\": \"2025-07-06T21:25:57.721672\",\n    \"price\": 859.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "galaxy_s24_256gb",
+      "current_price": 859.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:25:57.732256"
+  },
+  "c1cc7a803ad6819a4ed3c25dd53915bc_694576cdf074ed02bb0e7ab45ad83630": {
+    "id": "c1cc7a803ad6819a4ed3c25dd53915bc_694576cdf074ed02bb0e7ab45ad83630",
+    "content": "Price Analysis for: iPhone 16 Pro 128GB\n        Current Price: $999.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.316156\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  },\n  {\n    \"date\": \"2025-07-06T21:25:57.685618\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  },\n  {\n    \"date\": \"2025-07-06T21:26:00.835730\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_16_pro_128gb",
+      "current_price": 999.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:26:00.849994"
+  },
+  "ee262274ce705b87ade8b78e6634b3a7_7870ac748092ad1e734ef1382131f41b": {
+    "id": "ee262274ce705b87ade8b78e6634b3a7_7870ac748092ad1e734ef1382131f41b",
+    "content": "Price Analysis for: iPhone 15 Pro 128GB\n        Current Price: $799.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:26:00.849994\",\n    \"price\": 799.0,\n    \"source\": \"Best Buy\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_15_pro_128gb",
+      "current_price": 799.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:26:00.859513"
+  },
+  "3a2a058453c7aebc0afacccf3deb8980_ea5a8502f1c732fba1038a838dec9673": {
+    "id": "3a2a058453c7aebc0afacccf3deb8980_ea5a8502f1c732fba1038a838dec9673",
+    "content": "Price Analysis for: iPhone 16 128GB\n        Current Price: $699.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:26:00.860521\",\n    \"price\": 699.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_16_128gb",
+      "current_price": 699.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:26:00.869525"
+  },
+  "2f1ce23e7c941f41a97e7e9b3fb34315_694576cdf074ed02bb0e7ab45ad83630": {
+    "id": "2f1ce23e7c941f41a97e7e9b3fb34315_694576cdf074ed02bb0e7ab45ad83630",
+    "content": "Price Analysis for: iPhone 16 Pro 128GB\n        Current Price: $999.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.316156\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  },\n  {\n    \"date\": \"2025-07-06T21:25:57.685618\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  },\n  {\n    \"date\": \"2025-07-06T21:26:00.835730\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  },\n  {\n    \"date\": \"2025-07-06T21:27:46.669249\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_16_pro_128gb",
+      "current_price": 999.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:27:46.679312"
+  },
+  "9682c50fac74c09c37a2c5e9e2b3ce9f_a3e3124e4b2f8f13f58b8a42c5d04de3": {
+    "id": "9682c50fac74c09c37a2c5e9e2b3ce9f_a3e3124e4b2f8f13f58b8a42c5d04de3",
+    "content": "Price Analysis for: iPhone 16 Pro 256GB\n        Current Price: $1099.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.331780\",\n    \"price\": 1099.0,\n    \"source\": \"Best Buy\"\n  },\n  {\n    \"date\": \"2025-07-06T21:25:57.696143\",\n    \"price\": 1099.0,\n    \"source\": \"Best Buy\"\n  },\n  {\n    \"date\": \"2025-07-06T21:27:46.679312\",\n    \"price\": 1099.0,\n    \"source\": \"Best Buy\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_16_pro_256gb",
+      "current_price": 1099.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:27:46.696316"
+  },
+  "f694ccf143a8aa9055fa90c9b4b24294_d84606224ec9dae37bc0b2f4ecb06ebc": {
+    "id": "f694ccf143a8aa9055fa90c9b4b24294_d84606224ec9dae37bc0b2f4ecb06ebc",
+    "content": "Price Analysis for: Galaxy S24 128GB\n        Current Price: $799.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.345161\",\n    \"price\": 799.0,\n    \"source\": \"Samsung\"\n  },\n  {\n    \"date\": \"2025-07-06T21:25:57.710363\",\n    \"price\": 799.0,\n    \"source\": \"Samsung\"\n  },\n  {\n    \"date\": \"2025-07-06T21:27:46.701705\",\n    \"price\": 799.0,\n    \"source\": \"Samsung\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "galaxy_s24_128gb",
+      "current_price": 799.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:27:46.717712"
+  },
+  "94762f4adda246815c59a936c5d71627_8a152d958c3ad7c1abe5ff874bff7437": {
+    "id": "94762f4adda246815c59a936c5d71627_8a152d958c3ad7c1abe5ff874bff7437",
+    "content": "Price Analysis for: Galaxy S24 256GB\n        Current Price: $859.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.356142\",\n    \"price\": 859.0,\n    \"source\": \"Amazon\"\n  },\n  {\n    \"date\": \"2025-07-06T21:25:57.721672\",\n    \"price\": 859.0,\n    \"source\": \"Amazon\"\n  },\n  {\n    \"date\": \"2025-07-06T21:27:46.718714\",\n    \"price\": 859.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "galaxy_s24_256gb",
+      "current_price": 859.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:27:46.728915"
+  },
+  "9e5c032bed0cea4c3188078366b96284_694576cdf074ed02bb0e7ab45ad83630": {
+    "id": "9e5c032bed0cea4c3188078366b96284_694576cdf074ed02bb0e7ab45ad83630",
+    "content": "Price Analysis for: iPhone 16 Pro 128GB\n        Current Price: $999.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:21:49.316156\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  },\n  {\n    \"date\": \"2025-07-06T21:25:57.685618\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  },\n  {\n    \"date\": \"2025-07-06T21:26:00.835730\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  },\n  {\n    \"date\": \"2025-07-06T21:27:46.669249\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  },\n  {\n    \"date\": \"2025-07-06T21:27:49.918405\",\n    \"price\": 999.0,\n    \"source\": \"Apple\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_16_pro_128gb",
+      "current_price": 999.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:27:49.933918"
+  },
+  "b7e45ab53044cf5766316551fdcfd84c_7870ac748092ad1e734ef1382131f41b": {
+    "id": "b7e45ab53044cf5766316551fdcfd84c_7870ac748092ad1e734ef1382131f41b",
+    "content": "Price Analysis for: iPhone 15 Pro 128GB\n        Current Price: $799.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:26:00.849994\",\n    \"price\": 799.0,\n    \"source\": \"Best Buy\"\n  },\n  {\n    \"date\": \"2025-07-06T21:27:49.933918\",\n    \"price\": 799.0,\n    \"source\": \"Best Buy\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_15_pro_128gb",
+      "current_price": 799.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:27:49.944289"
+  },
+  "91a220ab8bea3efcb64a25a7af08e10d_ea5a8502f1c732fba1038a838dec9673": {
+    "id": "91a220ab8bea3efcb64a25a7af08e10d_ea5a8502f1c732fba1038a838dec9673",
+    "content": "Price Analysis for: iPhone 16 128GB\n        Current Price: $699.0\n        Price Trend: stable\n        Best Time to Buy: Monitor for trends\n        \n        Historical Prices: [\n  {\n    \"date\": \"2025-07-06T21:26:00.860521\",\n    \"price\": 699.0,\n    \"source\": \"Amazon\"\n  },\n  {\n    \"date\": \"2025-07-06T21:27:49.944289\",\n    \"price\": 699.0,\n    \"source\": \"Amazon\"\n  }\n]\n        \n        Market Analysis: Insufficient data for analysis\n        \n        Price Prediction: $N/A",
+    "metadata": {
+      "type": "price_insight",
+      "product_id": "iphone_16_128gb",
+      "current_price": 699.0,
+      "trend": "stable"
+    },
+    "created_at": "2025-07-06T21:27:49.953288"
   }
 }

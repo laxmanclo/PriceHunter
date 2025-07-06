@@ -1,142 +1,195 @@
-# 🚀 PriceHunter - The Ultimate Price Comparison Tool
+# 🔥 PriceHunter - Smart Price Comparison Tool
 
-The most sophisticated and intelligent price comparison tool that fetches the best prices from multiple sources worldwide.
+yo this thing is actually insane for finding the best deals online. built this to stop getting ripped off when shopping lol
 
-## 🌟 Features
+## ✨ what it does
 
-- **Multi-Source Scraping**: Amazon, eBay, Best Buy, Walmart, Target, Apple Store, and more
-- **Regional Intelligence**: Country-specific retailers (e.g., Sangeetha Mobiles for India)
-- **API Integrations**: Google Shopping, PriceAPI for additional coverage
-- **ML-Powered Matching**: Intelligent product matching using NLP and fuzzy matching
-- **Anti-Detection**: Rotating proxies, user agents, CAPTCHA handling
-- **Performance Optimized**: Redis caching, async processing
-- **Docker Ready**: Fully containerized for easy deployment
+- scrapes prices from literally everywhere (amazon, flipkart, best buy, etc.)
+- works in different countries (US, India, more coming)
+- has AI that makes your searches way smarter
+- finds alternatives you didn't even think of
+- tells you if you're getting a good deal or not
+- learns from searches to get better over time
+- super fast with caching and async stuff
 
-## 🏗️ Architecture
+## 🧠 the cool AI stuff (RAG system)
+
+this is where it gets interesting - built a whole knowledge base that:
+- knows about different products and their specs
+- remembers price trends and market data
+- enhances your search queries automatically
+- gives you smart insights about deals
+- learns from every search to get smarter
+
+basically it's like having a shopping expert that never sleeps
+
+## 🏗️ how it's built
 
 ```
-PriceHunter/
-├── src/
-│   ├── core/
-│   │   ├── price_fetcher.py      # Main engine
-│   │   ├── base_scraper.py       # Abstract scraper base
-│   │   └── result_processor.py   # Result normalization
-│   ├── scrapers/
-│   │   ├── ecommerce/           # Major e-commerce sites
-│   │   ├── regional/            # Country-specific sites
-│   │   └── apis/                # API integrations
-│   ├── utils/
-│   │   ├── product_matcher.py   # ML product matching
-│   │   ├── anti_detection.py    # Proxy/UA rotation
-│   │   └── cache.py             # Redis caching
-│   └── api/
-│       ├── cli.py               # Command line interface
-│       └── rest_api.py          # REST API endpoints
-├── tests/
-├── docker/
-├── requirements.txt
-├── Dockerfile
-└── docker-compose.yml
+src/
+├── core/           # main engine stuff
+├── scrapers/       # all the website scrapers
+├── rag/           # the AI brain (rag)
+│   ├── vector_store.py      # stores product knowledge
+│   ├── knowledge_base.py    # product database
+│   ├── query_enhancer.py    # makes searches smarter
+│   └── rag_engine.py        # puts it all together
+├── utils/          # helper functions
+└── api/           # ways to use it
 ```
 
-## 🚀 Quick Start
+## 🚀 how to use this thing
 
-### Using Docker (Recommended)
+### quickest demo (see the AI in action)
 
 ```bash
-# Clone the repository
-git clone <your-repo-url>
+# get the code
+git clone <your-repo>
 cd PriceHunter
 
-# Build and run with Docker Compose
-docker-compose up --build
+# install the basics (just need these for demo)
+pip install sentence-transformers faiss-cpu loguru
 
-# Test with the example query
-curl -X POST http://localhost:8000/api/search \
-  -H "Content-Type: application/json" \
-  -d '{"country": "US", "query": "iPhone 16 Pro, 128GB"}'
+# run the demo - shows off all the AI features
+python demo.py
 ```
 
-### Local Installation
+### full setup
 
 ```bash
-# Install dependencies
+# install everything
 pip install -r requirements.txt
 
-# Start Redis (required for caching)
-redis-server
+# test the RAG system (comprehensive tests)
+python test_rag_system.py
 
-# Run the CLI
-python src/api/cli.py --country US --query "iPhone 16 Pro, 128GB"
-
-# Or start the API server
-python src/api/rest_api.py
+# or test with real scraping (careful - might get blocked)
+python test_real_scrapers.py
 ```
 
-## 📊 Example Output
+### simple search example
 
-```json
-[
-  {
-    "link": "https://apple.com/iphone-16-pro",
-    "price": "999",
-    "currency": "USD",
-    "productName": "Apple iPhone 16 Pro 128GB"
-  },
-  {
-    "link": "https://amazon.com/dp/B0XXXXXXXX",
-    "price": "1049",
-    "currency": "USD",
-    "productName": "Apple iPhone 16 Pro 128GB Natural Titanium"
-  }
-]
+```python
+from src.core.price_fetcher import PriceFetcher, SearchRequest
+
+# create the fetcher (with AI enabled)
+fetcher = PriceFetcher(enable_rag=True)
+
+# search for something
+request = SearchRequest(
+    query="iPhone 16 Pro, 128GB",
+    country="US"
+)
+
+results = await fetcher.search(request)
+
+# check out the AI insights
+for insight in results.rag_insights:
+    print(f"{insight.title}: {insight.content}")
 ```
 
-## 🧪 Testing
+## 📊 what you get back
+
+the AI doesn't just give you prices - it gives you insights:
+
+```
+💰 Price Analysis
+Found 5 results with prices ranging from $999 to $1199.
+Average price: $1049
+💰 Great deal! Lowest price ($999) is below expected range ($1050-$1200)
+🏆 Best price: $999 from Apple Store
+
+🎯 Smart Recommendations
+You might also consider these alternatives:
+• iPhone 15 Pro ($799 - $999)
+• Samsung Galaxy S24 Ultra ($899 - $1199)
+• Google Pixel 8 Pro ($699 - $999)
+
+📈 Market Analysis
+📉 Prices are currently trending down - good time to buy!
+⏰ Best time to buy: Holiday season (November-December)
+```
+
+plus the actual product results with prices, ratings, links etc.
+
+## 🌍 where it works
+
+- **US**: amazon, best buy, walmart, target, apple store
+- **India**: flipkart, amazon.in (works really well here)
+- more countries coming when i get time
+
+## 🧪 testing it out
 
 ```bash
-# Run all tests
-pytest tests/
+# test the AI system
+python test_rag_system.py
 
-# Run specific test
-pytest tests/test_price_fetcher.py
+# test real scraping (careful - might get rate limited)
+python test_real_scrapers.py
 
-# Test with coverage
-pytest --cov=src tests/
+# run the basic tests
+pytest tests/ -v
 ```
 
-## 🌍 Supported Countries & Regions
+## ⚡ performance stuff
 
-- **US**: Amazon, eBay, Best Buy, Walmart, Target, Apple Store
-- **India**: Amazon.in, Flipkart, Sangeetha Mobiles, Croma
-- **UK**: Amazon.co.uk, Currys, Argos, John Lewis
-- **More regions coming soon...**
+- caches results so it's fast on repeat searches
+- runs scrapers in parallel (async ftw)
+- smart rate limiting so sites don't block you
+- learns from searches to get better over time
 
-## 🔧 Configuration
+## 🔧 technical details (for the nerds)
 
-Environment variables can be set in `.env` file:
+**RAG System:**
+- uses sentence-transformers for embeddings
+- FAISS for vector similarity search
+- learns product knowledge and price patterns
+- enhances queries with context
 
-```env
-REDIS_URL=redis://localhost:6379
-PROXY_ENABLED=true
-RATE_LIMIT_DELAY=2
-MAX_CONCURRENT_REQUESTS=10
-```
+**Scraping:**
+- multiple fallback CSS selectors
+- anti-bot detection evasion
+- handles different currencies and formats
+- fuzzy matching for product names
 
-## 📈 Performance
+**Architecture:**
+- async/await everywhere for speed
+- modular scraper system
+- comprehensive error handling
+- extensive logging for debugging
 
-- **Caching**: Results cached for 1 hour to improve response times
-- **Async Processing**: Concurrent scraping for faster results
-- **Rate Limiting**: Intelligent delays to avoid being blocked
-- **Proxy Rotation**: Multiple proxy sources for reliability
+sooo 
+**RAG Implementation**: built a complete retrieval-augmented generation system from scratch
+- vector embeddings with sentence-transformers
+- FAISS for similarity search
+- knowledge base that learns and grows
+- query enhancement that makes searches smarter
 
-## 🤝 Contributing
+**Real-world Problem**: price comparison is actually useful (not just another todo app)
+- handles multiple countries and currencies
+- deals with anti-bot protection
+- processes messy real-world data
+- provides actionable insights
 
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Submit a pull request
+**System Design**: shows understanding of complex architectures
+- async/await for performance
+- modular scraper system
+- caching and optimization
+- comprehensive error handling
+- extensive testing
 
-## 📄 License
+**AI Integration**: demonstrates modern AI concepts
+- embeddings and vector search
+- learning from user interactions
+- context-aware recommendations
+- intelligent query processing
 
-MIT License - see LICENSE file for details
+
+## 📝 notes
+
+- some scrapers might get blocked occasionally (that's just how it is)
+- the AI gets smarter the more you use it
+- works best for popular products (phones, laptops, etc.)
+- built this for learning but it actually works pretty well
+
+feel free to contribute or just use it to save money 💸
